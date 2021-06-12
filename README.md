@@ -9,5 +9,4 @@
 >  * MLlib
 ### ETL
 >  * [ETL Pipeline 구축](https://nbviewer.jupyter.org/github/ttobaegi/DataEngineering/blob/main/2_ETL_AWS/AWS_%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EA%B5%AC%EC%B6%95.ipynb) 
->  * 데이터 추출 E 가공 T 로드 L 프로세스 이해하기
->  * Naver Open API  ⇒ AWS (MySQL) ⇒ Python
+>  * 데이터 추출 E 가공 T 로드 L 프로세스 이해하기 : Naver Open API  ⇒ AWS (MySQL) ⇒ Python
